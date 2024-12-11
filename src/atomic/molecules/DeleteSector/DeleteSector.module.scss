@@ -1,0 +1,14 @@
+.wrapper{
+  display: flex;
+  flex-direction: column;
+}
+.error{
+  color: red;
+}
+.select{
+  min-width: 100px;
+  margin: 0 10px;
+}
+.input{
+  margin: 0 10px;
+}

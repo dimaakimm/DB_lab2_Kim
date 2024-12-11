@@ -1,0 +1,24 @@
+.table{
+  border: 1px solid black;
+}
+.box{
+  border: 1px solid black;
+  width: 150px;
+  overflow-x: auto;
+}
+.lastRow{
+  width: 100%;
+  align-self: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.row{
+  width: 100%;
+  border: 1px solid black;
+ }
+.buttonsBox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
