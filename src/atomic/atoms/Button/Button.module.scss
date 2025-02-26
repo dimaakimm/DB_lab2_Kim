@@ -2,15 +2,16 @@
   display: flex;
   justify-content: center;
   border-radius: 10px;
-  border: 1.5px solid white;
+  border: 1.5px solid rgba(0, 0, 0, 1);
   align-items: center;
   cursor: pointer;
   min-width: 100px;
-  padding: 0 7px;
-  height: 30px;
+  padding: 5px 10px;
   gap: 10px;
   font-size: 20px;
-  color: white;
+  color: rgba(0, 0, 0, 1);
+;
+  background-color: rgba(179, 179, 179, 1);
 }
 .secondary{
   background-color: orange;
